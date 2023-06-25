@@ -1,3 +1,5 @@
+# Python boshlgicch xpericelar
+
 # If-elif_else
 # 06.24
 #yosh=int(input("Yoshingiz nechida ?"))
